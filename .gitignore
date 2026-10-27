@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# 비밀값 / 로컬 데이터
+.env
+*.db
+cache/
+results/
+
+# OS
+Thumbs.db
+.DS_Store
